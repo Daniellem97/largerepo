@@ -3,4 +3,4 @@ stacks:
     # The key of is the immutable slug of your stack
     # which you will find in the URL.
     opentofu: &shared
-        opentofu_version: 1.6.0
+      terraform_version: 1.6.0
