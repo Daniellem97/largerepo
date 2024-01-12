@@ -14,8 +14,6 @@ stacks:
     # The key of is the immutable slug of your stack
     # which you will find in the URL.
     opentofu: &shared
-
-        project_root: infra
         opentofu_version: 1.6.0
     babys-second-stack:
         <<: *shared
